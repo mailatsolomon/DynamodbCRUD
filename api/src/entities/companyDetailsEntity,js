@@ -1,0 +1,11 @@
+const companyEntity = {
+    companyId: "",
+    createdAt:"",
+    companyName: "",
+    companyDescription: "",
+    contactPerson:"",
+    contactDetails:"",
+    isActive: "",
+    updatedAt: ""
+  };
+  module.exports= companyEntity;
